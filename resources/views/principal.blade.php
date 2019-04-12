@@ -12,22 +12,46 @@
   </head>
   <body>
   
-
-  <ul class="nav nav-pills nav-fill">
+<div class="bg-warning"> 
+  <nav class="navbar navbar-light" style="background-color: #E1E8D8; height:170px; font-family: Times New Roman;
+  font-size:25px"  >
+ <ul class="nav nav-pills nav-fill" >
   <li class="nav-item">
-    <a class="nav-link" href="#">INICIO</a>
+    <a class="nav-link" href="#" style="color:black"></a>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="#">PROGRAMAS</a>
+    <a class="nav-link" href="#" style="color:black"></a>
+  </li>
+  </nav>
+</div>
+<div>
+<nav class="navbar navbar-light" style="background-color: #000603; width:100%; height:70px; font-family: Times New Roman;
+font-size:20px">
+ <ul class="nav nav-pills nav-fill"  >
+  <li class="nav-item"  >
+    <a class="nav-link" href="#" style="color: white" >Inicio</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="#">ESTADISTICAS</a>
+    <a class="nav-link" href="#" style="color: white">Universidad</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="#" tabindex="-1" aria-disabled="true">LOGIN</a>
+    <a class="nav-link" href="#" style="color: white">Especializate con Nosotros</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="#" style="color: white">Bienestar Universitario</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="#" style="color: white">Contáctanos</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="#" tabindex="-1" aria-disabled="true"></a>
     
   </li>
 </ul>
+</nav>
+
+</div>
+
 
 
     <div class="container">

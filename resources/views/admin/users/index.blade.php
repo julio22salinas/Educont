@@ -1,5 +1,6 @@
 @extends ('principal')
 
+
 @section('secciones')
 
 <br/>
